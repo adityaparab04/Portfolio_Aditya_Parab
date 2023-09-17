@@ -350,3 +350,14 @@ article {
 article .icon {
     cursor: default;
 }
+
+/* Footer Section */
+
+footer {
+    height: 25vh;
+    margin: 0 0.5rem;
+  }
+  
+  footer p {
+    text-align: center;
+  }
